@@ -1,2 +1,1 @@
 # mindar-proj
-# mindar-proj
